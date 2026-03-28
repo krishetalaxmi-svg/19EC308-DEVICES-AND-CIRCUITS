@@ -4,7 +4,8 @@ To plot the V-I characteristics of PN junction diode.
 
 # APPARATUS REQUIRED 
 
-<img width="546" height="171" alt="image" src="https://github.com/user-attachments/assets/ca0298f8-4245-4be6-9d86-31b3ff598525" />
+<img width="1092" height="342" alt="image" src="https://github.com/user-attachments/assets/7016b116-67c4-4363-8367-e43def3ebed6" />
+
 
 # CIRCUIT DIAGRAM
 
@@ -55,7 +56,13 @@ Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 # TABULATION
 
+<img width="707" height="712" alt="Screenshot 2026-03-28 161945" src="https://github.com/user-attachments/assets/9c8c9b11-0902-4ec7-8920-8f42b76176d2" />
+
+
 # MODEL CALCULATION
+
+<img width="1027" height="581" alt="Screenshot 2026-03-28 162210" src="https://github.com/user-attachments/assets/20a0d59f-c100-4597-8034-c72e8813db9c" />
+
 
 # MODEL GRAPH
 
@@ -63,8 +70,11 @@ Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 # GRAPH:
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/68eb2687-e6e2-46c1-8880-4dbdbdb00eca" />
+
+
 
 # RESULT
-1. Forward resistance of PN diode = --------------------
-2. Reverse resistance of PN diode = --------------------
-3. Cut in Voltage of PN diode = -------------------
+1. Forward resistance of PN diode = 0.125 ohm
+2. Reverse resistance of PN diode = 1 ohm
+3. Cut in Voltage of PN diode = 0.5 V
