@@ -101,13 +101,22 @@ Step 3: Calculate hrb =
 
 # TABULATION:
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fa9ae89-5c38-4e28-9790-3e360b8d3903" />
+
+
 # MODEL CALCULATION:
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/dd5b0c4a-ab69-44fd-b734-6cb1dc400603" />
+
 
 # MODEL GRAPH :
 
 <img width="441" height="261" alt="image" src="https://github.com/user-attachments/assets/dfb8cdbd-b4dc-4683-ba1f-fe31bc154a36" />
 
 # GRAPH:
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/60f3905f-d8ef-4176-97fd-6549b2c950e4" />
+
 
 # RESULT:
 Thus the input , output characteristic of BJT in common base mode is drawn ,
